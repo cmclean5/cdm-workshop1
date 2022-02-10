@@ -22,17 +22,7 @@ order: 10000
 
 ---
 > ## Public health data: Access
-> In small groups, try to think of reasons people share code and software.
-> Using the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>,
-> jot down any ideas you come up with, so that we have an overall list at the end.
-> > ## Ideas
-> > Some reasons that are commonly cited are:
-> > - Shared software can be built on by others
-> > - Shared code can be checked by others
-> > - Shared software can be maintained by others
-> > - Extensions to some software have to be shared due to copyleft licensing
-> > - It's possible to audit and verify shared software
-> > - Sharing software helps you hold yourself to higher coding standards
+> Where to access available public health care dataset for developing data analysis code and software.
 > {: .solution}
 {: .prereq}
 
