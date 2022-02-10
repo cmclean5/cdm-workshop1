@@ -1,19 +1,18 @@
 ---
-title: "Workflow checklist" # title of the episode
-teaching: 5 # time required to teach (minutes)
-exercises: 20 # time required for participants to do the activities (minutes)
-duration: 0 # duration not included in teaching/exercises time (minutes)
-summary: 
-questions:
-objectives:
-keypoints:
+title: Workflow checklist
+teaching: 5
+exercises: 20
+duration: 0
+summary: null
+questions: null
+objectives: null
+keypoints: null
 is-break: false
 day: 1
 order: 200000
-ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
+ukrn_wb_rules: null
 
 ---
-
 ## How to use this checklist
 
 - Copy the checklist to a new document.
