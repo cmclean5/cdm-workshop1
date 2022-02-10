@@ -11,6 +11,7 @@ objectives:
 keypoints:
   - dealing with missing records in health datasets
   - dealing with dates and times in health datasets
+  - "Learning how to pipe command using R's tidyverse "
   - building sanity checks into your data wrangling work-flow
 is-break: false
 ukrn_wb_rules: []
