@@ -21,7 +21,7 @@ day: 1
 order: 10000
 
 ---
-> ## Enumerating the benefits `5 min`
+> ## Public health data: Access
 > In small groups, try to think of reasons people share code and software.
 > Using the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>,
 > jot down any ideas you come up with, so that we have an overall list at the end.
@@ -36,7 +36,7 @@ order: 10000
 > {: .solution}
 {: .prereq}
 
-> ## Considering the concerns `5 min`
+> ## Public health data: Security
 > In the same groups, try to think of reasons people might hesitate to share code or software.
 > Again, use the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>
 > to jot down any ideas you come up with.
@@ -52,7 +52,7 @@ order: 10000
 > {: .solution}
 {: .prereq}
 
-> ## Your experiences `10 min`
+> ## Public health data: Anonymization
 > Now we have listed some benefits and concerns of sharing, go around your small group and have
 > each group member identify two items that they have experience with.
 > You can choose a benefit and a concern, or two benefits or even two concerns.
@@ -62,22 +62,4 @@ order: 10000
 > but the focus should be on sharing with your colleagues and listening to what they have to say.
 {: .challenge}
 
-> ## Addressing concerns `10 min`
-> We have a list of concerns that people in your workshops might have.
-> It's helpful to be able to provide some perspective on those concerns --
-> we want to acknowledge that sharing can be frightening or difficult,
-> but highlight that it is worth doing anyway!
->
-> Again, in your group, choose two of the concerns. If they are concerns you have
-> or have had yourself, that's ideal, but they could also be ones that you just
-> find interesting.
-> Go around the group, discussing each person's concerns.
-> Try to think of reasons why the concern should not hold you back from
-> sharing your code and software.
-> If you can't think of anything, try asking the larger group or one of the
-> workshop instructors or helpers.
->
-> Remember, it's not wrong to have concerns! We believe that sharing data and code
-> is important and that the benefits outweigh the concerns, and we'd like to help
-> you understand why and give you any encouragement you need.
-{: .discussion}
+
