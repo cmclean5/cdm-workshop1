@@ -17,8 +17,8 @@ objectives:
 keypoints: null
 is-break: false
 ukrn_wb_rules: null
-day: 1
-order: 30000
+day: ""
+order: 100000
 
 ---
 ## What is licensing?
