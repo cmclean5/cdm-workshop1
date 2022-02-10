@@ -3,7 +3,7 @@ title: Public health data-analysis
 teaching: 10
 exercises: 50
 duration: 0
-summary: ""
+summary: "In this lesion "
 questions: null
 objectives: null
 keypoints: null
