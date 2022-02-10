@@ -3,10 +3,12 @@ title: Public health data-analysis
 teaching: 10
 exercises: 50
 duration: 0
-summary: "In this lesion "
+summary: In this lesson we discuss basic data analysis methods using in health data
 questions: null
-objectives: null
-keypoints: null
+objectives:
+  - Introduce R's ggplot to build figures from public health data.
+keypoints:
+  - Venn diagrams and histograms using R's ggplot
 is-break: false
 ukrn_wb_rules: []
 day: 1
