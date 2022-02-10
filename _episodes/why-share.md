@@ -1,7 +1,7 @@
 ---
 title: Public Health Data
 teaching: 10
-exercises: 30
+exercises: 50
 duration: 0
 summary: "In this lesson we consider public health data: access, security,
   anonymization. "
