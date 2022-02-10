@@ -1,7 +1,7 @@
 ---
 title: Public health data-waggling
 teaching: 10
-exercises: 20
+exercises: 50
 duration: 0
 summary: "In this "
 questions: null
