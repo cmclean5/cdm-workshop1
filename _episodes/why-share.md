@@ -6,12 +6,15 @@ duration: 0
 summary: "In this lesson we consider public health data: access, security,
   anonymization. "
 questions: null
-objectives: null
+objectives:
+  - "Best practices in open source public health data wrangling. To develop code
+    using only dataset available in the public domain or randomise data sources.
+    "
 keypoints:
-  - People share code and software for many reasons
-  - Shared software can be extended
-  - Shared software can be evaluated
-  - Bugs can be found and fixed
+  - security of public data
+  - how to access 'publicly' available public health data and randomised
+    resources.
+  - anonymization of public health data
 is-break: false
 ukrn_wb_rules: null
 day: 1
